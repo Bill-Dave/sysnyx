@@ -20,7 +20,6 @@ Overview
 - Extras: Stripe (PCI tokenization), Celery (async), Redis (cache/sessions).
 - Hardware: NFC readers (ACR122U), phone NFC.
 
-**License**: MIT (open for your friend to hack).
 
 ### Quick Start
 1. **Clone & Env**:
